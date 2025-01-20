@@ -1,0 +1,47 @@
+{
+    "pokemon": {
+      "name": "Gengar",
+      "type": ["Ghost", "Poison"],
+      "abilities": ["Cursed Body"],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "special_attack": 130,
+        "special_defense": 75,
+        "speed": 110
+      },
+      "moves": [
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost",
+          "power": 80,
+          "accuracy": 100
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison",
+          "power": 90,
+          "accuracy": 100
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "power": null,
+          "accuracy": 60
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric",
+          "power": 90,
+          "accuracy": 100
+        }
+      ],
+      "evolution": {
+        "previous": "Haunter",
+        "method": "Trade"
+      },
+      "description": "Gengar és un Pokémon molt travesser que apareix sovint en nits fosques. Li agrada fer bromes espantant la gent."
+    }
+  }
+  
