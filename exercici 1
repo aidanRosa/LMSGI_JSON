@@ -1,0 +1,36 @@
+<xml version="1.0" encoding="UTF-8">
+
+<productos>
+
+    <producto>
+        <id>1001</id>
+        <nombre>CHAQUETA</nombre>
+        <descripcion>chaqueton pa ir con to el flow sabes compadre</descripcion>
+        <precio>79.99€</precio>
+        <categoria>Ropa</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://http2.mlstatic.com/D_NQ_NP_991296-MCO44197979346_112020-O.webp</imagen>
+    </producto>
+
+    <producto>
+        <id>1002</id>
+        <nombre>PANTALON</nombre>
+        <descripcion>unos pantisitos ricos</descripcion>
+        <precio>29.99€</precio>
+        <categoria>Ropa</categoria>
+        <disponibilidad>agotado</disponibilidad>
+        <imagen>https://m.media-amazon.com/images/I/61ugkH3TK4L._AC_UY580_.jpg</imagen>
+    </producto>
+
+    <producto>
+        <id>1003</id>
+        <nombre>ZAPATO</nombre>
+        <descripcion>unas jordania pa impresionar tu sabe</descripcion>
+        <precio>119.99€</precio>
+        <categoria>Ropa</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://i.redd.it/4ati7kzkj1m11.jpg</imagen>
+    </producto>
+
+</productos>
+
